@@ -8,6 +8,6 @@ dl_gh "revanced-patches revanced-cli" "revanced" "latest"
 # Patch Spotjfy Arm64-v8a
 get_patches_key "Spotjfy-revanced"
 j="i"
-version="9.0.44.478"
+version="9.1.90.2270"
 get_apkpure "com.spot"$j"fy.music" "spotjfy-arm64-v8a" "spot"$j"fy-music-and-podcasts-for-android/com.spot"$j"fy.music"
 patch "spotjfy-arm64-v8a" "revanced"
